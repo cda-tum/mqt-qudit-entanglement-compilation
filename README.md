@@ -4,7 +4,7 @@
  [![Documentation](https://img.shields.io/readthedocs/ddsim?logo=readthedocs&style=flat-square)]() 
  [![codecov](https://img.shields.io/codecov/c/github/cda-tum/)]() -->
 
-# MQT Qudits - Adaptive Compilation of Multi-Level Quantum Operations
+# MQT Qudits - Compilation of Entangling Gates for High-Dimensional Quantum Systems
 
 A tool for the compilation of arbitrary d-dimensional two-qudit entangling unitaries into error-efficient sequences of local operations and entangling primitives supported by the quantum architecture by [Chair for Design Automation](https://www.cda.cit.tum.de/).
 
