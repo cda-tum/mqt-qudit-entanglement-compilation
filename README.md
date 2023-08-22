@@ -95,4 +95,4 @@ Building (and running) is continuously tested under Linux, macOS, and Windows us
 
 No References.
 
-K. Mato, M. Ringbauer, S. Hillmich and R. Wille, "Compilation of Entangling Gates for High-Dimensional Quantum Systems," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 202-208.
+K. Mato, M. Ringbauer, S. Hillmich and R. Wille, "[Compilation of Entangling Gates for High-Dimensional Quantum Systems](https://www.cda.cit.tum.de/files/eda/2023_aspdac_qudit_entanglement_compilation.pdf)," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 202-208.
