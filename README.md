@@ -4,6 +4,14 @@
  [![Documentation](https://img.shields.io/readthedocs/ddsim?logo=readthedocs&style=flat-square)]() 
  [![codecov](https://img.shields.io/codecov/c/github/cda-tum/)]() -->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cda-tum/qmap/main/docs/source/_static/mqt_light.png" width="60%">
+    <img src="https://raw.githubusercontent.com/cda-tum/qmap/main/docs/source/_static/mqt_dark.png" width="60%">
+  </picture>
+</p>
+
+
 # MQT Qudits - Compilation of Entangling Gates for High-Dimensional Quantum Systems
 
 A tool for the compilation of arbitrary d-dimensional two-qudit entangling unitaries into error-efficient sequences of local operations and entangling primitives supported by the quantum architecture by [Chair for Design Automation](https://www.cda.cit.tum.de/).
@@ -87,3 +95,4 @@ Building (and running) is continuously tested under Linux, macOS, and Windows us
 
 No References.
 
+K. Mato, M. Ringbauer, S. Hillmich and R. Wille, "Compilation of Entangling Gates for High-Dimensional Quantum Systems," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 202-208.
