@@ -1,3 +1,6 @@
+> [!WARNING]
+> As of May 2024, this repository is no longer actively maintained. Development of the code of this repository continues in [MQT Qudits](https://github.com/cda-tum/mqt-qudits).
+> No new contributions will be accepted here.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 <!--- [![Bindings](https://img.shields.io/github/workflow/status/cda-tum/ddsim/Deploy%20to%20PyPI?style=flat-square&logo=github&label=python)]()
